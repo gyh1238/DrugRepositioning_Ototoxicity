@@ -1,0 +1,71 @@
+Name,Molecular Formula,smiles,Molecular weight,Reference
+Amsacrine,C21H19N3O3S,COC1=C(C=CC(=C1)NS(=O)(=O)C)NC2=C3C=CC=CC3=NC4=CC=CC=C42,393.5,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+Carvedilol,C24H26N2O4,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O,406.5,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+Cepharanthine,C37H38N2O6,CN1CCC2=CC3=C(C4=C2C1CC5=CC=C(C=C5)OC6=C(C=CC(=C6)CC7C8=CC(=C(C=C8CCN7C)OC)O4)OC)OCO3,606.7,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+Drofenine,C20H31NO2,CCN(CC)CCOC(=O)C(C1CCCCC1)C2=CC=CC=C2,317.5,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+Hexamethyleneamiloride,C12H18ClN7O,C1CCCN(CC1)C2=NC(=C(N=C2Cl)C(=O)N=C(N)N)N,311.77,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+Phenoxybenzamine,C18H22ClNO,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2,303.8,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+"9-amino-1,2,3,4-.tetrahydroacridine (Tacrine)",C13H14N2,C1CCC2=NC3=CC=CC=C3C(=C2C1)N,198.26,Drug screening for hearing loss - using the zebrafish lateral line to screen for drugs that prevent and cause hearing loss
+deferoxamine,C25H48N6O8,CC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCNC(=O)CCC(=O)N(CCCCCN)O)O)O,560.7,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+2.2′-dipyridyl,C10H8N2,C1=CC=NC(=C1)C2=CC=CC=N2,156.18,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+coenzyme Q10,C59H90O4,CC1=C(C(=O)C(=C(C1=O)OC)OC)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C,863.3,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+alpha-tocopherol,C29H50O2,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C,430.7,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+D-methionine,C5H11NO2S,CSCCC(C(=O)O)N,149.21,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+SS-31,C32H49N9O5,CC1=CC(=CC(=C1CC(C(=O)NC(CCCCN)C(=O)NC(CC2=CC=CC=C2)C(=O)N)NC(=O)C(CCCN=C(N)N)N)C)O,639.8,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+Dexamethasone,C22H29FO5,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,392.5,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+Memantine,C12H21N,CC12CC3CC(C1)(CC(C3)(C2)N)C,179.3,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+M40403,C21H35Cl2MnN5,C1CCC2C(C1)NCCNC3CCCCC3NCC4=CC=CC(=N4)CN2.[Cl-].[Cl-].[Mn+2],483.4,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+CEP-1347,C33H33N3O5S2,CCSCC1=CC2=C(C=C1)N3C4CC(C(O4)(N5C6=C(C=C(C=C6)CSCC)C7=C8CNC(=O)C8=C2C3=C75)C)(C(=O)OC)O,615.8,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+ZVAD,C22H30FN3O7,CC(C)C(C(=O)NC(C)C(=O)NC(CC(=O)OC)C(=O)CF)NC(=O)OCC1=CC=CC=C1,467.5,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+Minocycline,C23H27N3O7,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,457.5,Mechanism and Prevention of Ototoxicity Induced by Aminoglycosides
+salvianolic acid B,C36H30O16,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=C3C(C(OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)OC(CC5=CC(=C(C=C5)O)O)C(=O)O)O)O,718.6,Salvianolic acid B inhibits ototoxic drug–induced ototoxicity by suppression of the mitochondrial apoptosis pathway
+liproxstatin-1,C19H21ClN4,C1CNCCC12C(=NCC3=CC(=CC=C3)Cl)NC4=CC=CC=C4N2,340.8,Liproxstatin-1 Protects Hair Cell-Like HEI-OC1 Cells and Cochlear Hair Cells against Neomycin Ototoxicity
+thymoquinone,C10H12O2,CC1=CC(=O)C(=CC1=O)C(C)C,164.2,An Evaluation of the Protective Effects of Thymoquinone on Amikacin-Induced Ototoxicity in Rats
+"2,3,4’,5-Tetrahydroxystilbene-2-O-beta-d-glucoside",C20H22O9,C1=CC(=CC=C1C=CC2=C(C(=CC(=C2)O)O)OC(C=O)C(C(C(CO)O)O)O)O,406.4,"Otoprotective Effect of 2,3,4′,5-Tetrahydroxystilbene-2-O-β-d-Glucoside on Gentamicin-Induced Apoptosis in Mouse Cochlear UB OC-2 Cells"
+ORC-13661,C18H19ClN4O2S,CN1C2CCC1C3=C(C2)SC(=C3C(=O)N)NC(=O)NC4=CC=C(C=C4)Cl,390.9,ORC-13661 protects sensory hair cells from aminoglycoside and cisplatin ototoxicity
+fenofibrate,C20H21ClO4,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,360.8,Fenofibrate exerts protective effects against gentamicin-induced toxicity in cochlear hair cells by activating antioxidant enzymes
+naringin,C27H32O14,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,580.5,Naringin attenuates cisplatin‐ and aminoglycoside‐induced hair cell injury in the zebrafish lateral line via multiple pathways
+S-allylmercaptocysteine,C6H11NO2S2,C=CCSSCC(C(=O)O)N,193.3,"The Effect of Garlic Derivatives (S-Allylmercaptocysteine, Diallyl Disulfide, and S-Allylcysteine) on Gentamicin Induced Ototoxicity: An Experimental Study"
+diallyl disulfide,C6H10S2,C=CCSSCC=C,146.3,"The Effect of Garlic Derivatives (S-Allylmercaptocysteine, Diallyl Disulfide, and S-Allylcysteine) on Gentamicin Induced Ototoxicity: An Experimental Study"
+adjudin,C15H12Cl2N4O,C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)NN,335.2,Adjudin protects rodent cochlear hair cells against gentamicin ototoxicity via the SIRT3-ROS pathway
+melatonin,C13H16N2O2,CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC,232.28,Efficacy of three drugs for protecting against gentamicin-induced hair cell and hearing losses
+tacrolimus,C44H69NO12,CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CC=C)O)C)C(=CC4CCC(C(C4)OC)O)C)O)C)OC)OC,804,Efficacy of three drugs for protecting against gentamicin-induced hair cell and hearing losses
+MK801,C16H15N,CC12C3=CC=CC=C3CC(N1)C4=CC=CC=C24,221.3,Complementary roles of neurotrophin 3 and a N-methyl-d-aspartate antagonist in the protection of noise and aminoglycoside-induced ototoxicity
+quinoxaline,C8H6N2,C1=CC=C2C(=C1)N=CC=N2,130.15,Quinoxaline protects zebrafish lateral line hair cells from cisplatin and aminoglycosides damage
+trimetazidine,C14H22N2O3,COC1=C(C(=C(C=C1)CN2CCNCC2)OC)OC,266.34,Protective Role of Trimetazidine Against Neomycin-induced Hair Cell Damage in Zebrafish
+Sodium selenite,Na2O3Se,[O-][Se](=O)[O-].[Na+].[Na+],172.95,Sodium Selenite Acts as an Otoprotectant against Neomycin-Induced Hair Cell Damage in a Zebrafish Model
+Seratrodast,C22H26O4,CC1=C(C(=O)C(=C(C1=O)C)C(CCCCCC(=O)O)C2=CC=CC=C2)C,354.4,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Idebenone,C19H30O5,CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCCO,338.4,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Resveratrol,C14H12O3,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,228.24,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Butylated hydroxyanisole,C11H16O2,CC(C)(C)C1=C(C=CC(=C1)OC)O,180.24,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+DL-alpha-lipoic acid,C8H14O2S2,C1CSSC1CCCCC(=O)O,206.3,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Hinokitiol (beta-thujaplicin) ,C10H12O2,CC(C)C1=CC(=O)C(=CC=C1)O,164.2,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Butylated hydroxytoluene,C15H24O,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,220.35,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Dithiotreitol,C4H10O2S2,C(C(C(CS)O)O)S,154.3,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+edaravone,C10H10N2O,CC1=NN(C(=O)C1)C2=CC=CC=C2,174.2,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Procysteine,C4H5NO3S,C1C(NC(=O)S1)C(=O)O,147.15,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Trolox,C14H18O4,CC1=C(C2=C(CCC(O2)(C)C(=O)O)C(=C1O)C)C,250.29,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Thiourea,CH4N2S,C(=S)(N)N,76.12,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Thymoquinone,C10H12O2,CC1=CC(=O)C(=CC1=O)C(C)C,164.2,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+n-acetylcysteine,C5H9NO3S,CC(=O)NC(CS)C(=O)O,163.2,
+AEG 3482,C10H8N4O2S2,C1=CC=C(C=C1)C2=CN3C(=N2)SC(=N3)S(=O)(=O)N,280.3,The Inner Ear Heat Shock Transcriptional Signature Identifies Compounds That Protect Against Aminoglycoside Ototoxicity
+Pifithrin-mu,C8H7NO2S,C1=CC=C(C=C1)C#CS(=O)(=O)N,181.21,The Inner Ear Heat Shock Transcriptional Signature Identifies Compounds That Protect Against Aminoglycoside Ototoxicity
+AT-13387,C24H31N3O3,CC(C)C1=CC(=C(C=C1O)O)C(=O)N2CC3=C(C2)C=C(C=C3)CN4CCN(CC4)C,409.5,The Inner Ear Heat Shock Transcriptional Signature Identifies Compounds That Protect Against Aminoglycoside Ototoxicity
+PNU 37883,C21H35N3O,C1CCC(CC1)N=C(NC23CC4CC(C2)CC(C4)C3)N5CCOCC5,345.5,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+AM-92016,C19H24Cl2N2O4S,CN(CCC1=CC(=C(C=C1)Cl)Cl)CC(COC2=CC=C(C=C2)NS(=O)(=O)C)O,447.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+XE-991,C26H20N2O,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2(CC4=CC=NC=C4)CC5=CC=NC=C5,376.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+Linopirdine,C26H21N3O,C1=CC=C(C=C1)N2C3=CC=CC=C3C(C2=O)(CC4=CC=NC=C4)CC5=CC=NC=C5,391.5,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+Ro-04-5595,C19H22ClNO2,CN1CCC2=CC(=C(C=C2C1CCC3=CC=C(C=C3)Cl)O)OC,331.8,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+"(±)-1-(1,2-Diphenylethyl)piperidine",C19H23N,C1CCN(CC1)C(CC2=CC=CC=C2)C3=CC=CC=C3,265.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+Ifenprodil,C21H27NO2,CC(C(C1=CC=C(C=C1)O)O)N2CCC(CC2)CC3=CC=CC=C3,325.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+SYM 2206,C20H22N4O3,CCCNC(=O)N1C(C2=CC3=C(C=C2C(=N1)C4=CC=C(C=C4)N)OCO3)C,366.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+FPL 64176,C22H21NO3,CC1=C(C(=C(N1)C)C(=O)OC)C(=O)C2=CC=CC=C2CC3=CC=CC=C3,347.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+ZK 93423,C23H22N2O4,CCOC(=O)C1=NC=C2C(=C1COC)C3=C(N2)C=CC(=C3)OCC4=CC=CC=C4,390.4,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+M-chlorophenylbiguanide,C8H10ClN5,C1=CC(=CC(=C1)Cl)N=C(N)N=C(N)N,211.65,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+2-APB,C14H16BNO,B(C1=CC=CC=C1)(C2=CC=CC=C2)OCCN,225.1,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+MR 16728,C23H36N2O,C1CCCN(CC1)CCCNC(=O)C(C2CCCCC2)C3=CC=CC=C3,356.5,Identification of ion-channel modulators that protect against aminoglycoside-induced hair cell death
+berbamine,C37H40N2O6,CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)O)OC,608.7,Natural Bizbenzoquinoline Derivatives Protect Zebrafish Lateral Line Sensory Hair Cells from Aminoglycoside Toxicity
+E6 berbamine,C44H43N3O9,CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)OC(=O)C8=CC=C(C=C8)[N+](=O)[O-])OC,757.8,Natural Bizbenzoquinoline Derivatives Protect Zebrafish Lateral Line Sensory Hair Cells from Aminoglycoside Toxicity
+hernandezine,C39H44N2O7,CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(CCN6C)C(=C(C(=C7O3)OC)OC)OC)OC)OC,652.8,Natural Bizbenzoquinoline Derivatives Protect Zebrafish Lateral Line Sensory Hair Cells from Aminoglycoside Toxicity
+isotetrandrine,C38H42N2O6,CN1CCC2=CC(=C3C=C2C1CC4=CC=C(C=C4)OC5=C(C=CC(=C5)CC6C7=C(O3)C(=C(C=C7CCN6C)OC)OC)OC)OC,622.7,Natural Bizbenzoquinoline Derivatives Protect Zebrafish Lateral Line Sensory Hair Cells from Aminoglycoside Toxicity
+citicoline,C14H26N4O11P2,C[N+](C)(C)CCOP(=O)([O-])OP(=O)(O)OCC1C(C(C(O1)N2C=CC(=NC2=O)N)O)O,488.32,Citicoline Protects Auditory Hair Cells Against Neomycin-Induced Damage

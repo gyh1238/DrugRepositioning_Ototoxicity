@@ -1,0 +1,9 @@
+Name,smiles,amg,cisplatin,Reference
+raloxifene,Oc1ccc(cc1)c2sc3cc(O)ccc3c2C(=O)c4ccc(OCCN5CCCCC5)cc4,1,0,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+tamoxifen,CC\C(=C(/c1ccccc1)\c2ccc(OCCN(C)C)cc2)\c3ccccc3,1,0,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+paroxetine,Fc1ccc(cc1)[C@@H]2CCNC[C@H]2COc3ccc4OCOc4c3,1,1,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+fluoxetine,CNCCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2,1,0,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+fluspirilene,Fc1ccc(cc1)C(CCCN2CCC3(CC2)N(CNC3=O)c4ccccc4)c5ccc(F)cc5,1,0,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+phenoxybenzamine,CC(COc1ccccc1)N(CCCl)Cc2ccccc2,1,0,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+loperamide,CN(C)C(=O)C(CCN1CCC(O)(CC1)c2ccc(Cl)cc2)(c3ccccc3)c4ccccc4,1,0,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin
+benzamil,C1=CC=C(C=C1)CN=C(N)NC(=O)C2=C(N=C(C(=N2)Cl)N)N,1,1,Screen of FDA-approved drug library reveals compounds that protect hair cells from aminoglycosides and cisplatin

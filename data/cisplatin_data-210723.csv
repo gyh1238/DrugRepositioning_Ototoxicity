@@ -1,0 +1,91 @@
+Name,Molecular Formula,smiles,Molecular weight,Reference
+sodium thiosulfate,Na2O3S2,[O-]S(=O)(=S)[O-].[Na+].[Na+],158.11,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+acetylcysteine,C5H9NO3S,CC(=O)NC(CS)C(=O)O,163.2,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+D-methionine,C5H11NO2S,CSCCC(C(=O)O)N,149.21,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+amifostine,C5H15N2O3PS,C(CN)CNCCSP(=O)(O)O,214.23,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+ebselen,C13H9NOSe,C1=CC=C(C=C1)N2C(=O)C3=CC=CC=C3[Se]2,274.2,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+dexamethasone,C22H29FO5,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,392.5,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+flunarizine,C26H26F2N2,C1CN(CCN1CC=CC2=CC=CC=C2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F,404.5,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+vitamin E,C29H50O2,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C,430.7,Progress in the Development of Preventative Drugs for Cisplatin-Induced Hearing Loss
+Apocynin,C9H10O3,CC(=O)C1=CC(=C(C=C1)O)OC,166.17,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Lactate,C3H5O3-,CC(C(=O)[O-])O,89.07,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Mitoquinone (MitoQ),C37H44O4P+,CC1=C(C(=O)C(=C(C1=O)OC)OC)CCCCCCCCCC[P+](C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4,583.7,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Paeoniflorin,C23H28O11,CC12CC3(C4CC1(C4(C(O2)O3)COC(=O)C5=CC=CC=C5)OC6C(C(C(C(O6)CO)O)O)O)O,480.5,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Levosimendan,C14H12N6O,CC1CC(=O)NN=C1C2=CC=C(C=C2)NN=C(C#N)C#N,280.28,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Vitamin C,C6H8O6,C(C(C1C(=C(C(=O)O1)O)O)O)O,176.12,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Alpha-lipoic acid,C8H14O2S2,C1CSSC1CCCCC(=O)O,206.3,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Ginkgolide B,C20H24O10,CC1C(=O)OC2C1(C34C(=O)OC5C3(C2O)C6(C(C5)C(C)(C)C)C(C(=O)OC6O4)O)O,424.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Astaxanthin,C40H52O4,CC1=C(C(CC(C1=O)O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)C(CC2(C)C)O)C)C)C,596.8,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Flunarizine,C26H26F2N2,C1CN(CCN1CC=CC2=CC=CC=C2)C(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F,404.5,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+R-phenylisopropyladenosine (R-PIA),C19H23N5O4,CC(CC1=CC=CC=C1)NC2=C3C(=NC=N2)N(C=N3)C4C(C(C(O4)CO)O)O,385.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Curcumin,C21H20O6,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,368.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Forskolin,C22H34O7,CC(=O)OC1C(C2C(CCC(C2(C3(C1(OC(CC3=O)(C)C=C)C)O)C)O)(C)C)O,410.5,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Epigallocatechin-3-gallate (EGCG),C22H18O11,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,458.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+N-acetylcysteine (NAC),C5H9NO3S,CC(=O)NC(CS)C(=O)O,163.2,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+"3-amino-3-(4-fluorophenyl)-1H-quinoline-2,4-dione",C15H11FN2O2,C1=CC=C2C(=C1)C(=O)C(C(=O)N2)(C3=CC=C(C=C3)F)N,270.26,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Pifithrin‐alpha (PFT‐a),C16H19BrN2OS,CC1=CC=C(C=C1)C(=O)CN2C3=C(CCCC3)SC2=N.Br,367.3,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Allicin,C6H10OS2,C=CCSS(=O)CC=C,162.3,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Minocycline,C23H27N3O7,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,457.5,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Dunnione,C15H14O3,CC1C(C2=C(O1)C3=CC=CC=C3C(=O)C2=O)(C)C,242.27,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Pirenzepine,C19H21N5O2,CN1CCN(CC1)CC(=O)N2C3=CC=CC=C3C(=O)NC4=C2N=CC=C4,351.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Dexamethasone,C22H29FO5,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,392.5,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Kenpaullone,C16H11BrN2O,C1C2=C(C3=CC=CC=C3NC1=O)NC4=C2C=C(C=C4)Br,327.17,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+AT7519,C16H17Cl2N5O2,C1CNCCC1NC(=O)C2=C(C=NN2)NC(=O)C3=C(C=CC=C3Cl)Cl,382.2,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+AZD5438,C18H21N5O2S,CC1=NC=C(N1C(C)C)C2=NC(=NC=C2)NC3=CC=C(C=C3)S(=O)(=O)C,371.5,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Cimetidine,C10H16N6S,CC1=C(N=CN1)CSCCNC(=NC)NC#N,252.34,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+ORC-13661,C18H19ClN4O2S,CN1C2CCC1C3=C(C2)SC(=C3C(=O)N)NC(=O)NC4=CC=C(C=C4)Cl,390.9,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+JWH015,C23H21NO,CCCN1C(=C(C2=CC=CC=C21)C(=O)C3=CC=CC4=CC=CC=C43)C,327.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Capsaicin,C18H27NO3,CC(C)C=CCCCCC(=O)NCC1=CC(=C(C=C1)O)OC,305.4,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Trichostatin A,C17H22N2O3,CC(C=C(C)C=CC(=O)NO)C(=O)C1=CC=C(C=C1)N(C)C,302.37,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Tauroursodeoxycholic acid (TUDCA),C26H45NO6S,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C,499.7,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+Fenofibrate,C20H21ClO4,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,360.8,Current Strategies to Combat Cisplatin-Induced Ototoxicity
+zingerone,C11H14O3,CC(=O)CCC1=CC(=C(C=C1)O)OC,194.23,Otoprotective Effects of Zingerone on Cisplatin-Induced Ototoxicity
+salvianolic acid B,C36H30O16,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C=CC2=C3C(C(OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)OC(CC5=CC(=C(C=C5)O)O)C(=O)O)O)O,718.6,Salvianolic acid B inhibits ototoxic drug–induced ototoxicity by suppression of the mitochondrial apoptosis pathway
+Quercetin,C15H10O7,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.23,
+L-methionine,C5H11NO2S,CSCCC(C(=O)O)N,149.21,
+resveratrol,C14H12O3,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,228.24,
+R-phenylisopropyladenosine (R-PIA),C19H23N5O4,CC(CC1=CC=CC=C1)NC2=C3C(=NC=N2)N(C=N3)C4C(C(C(O4)CO)O)O,385.4,Adenosine A1 Receptor Protects Against Cisplatin Ototoxicity by Suppressing the NOX3-STAT1 Inflammatory Pathway in the Cochlea
+lovastatin,C24H36O5,CCC(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C,404.5,Lovastatin protects against cisplatin-induced hearing loss in mice
+ursolic acid ,C30H48O3,CC1CCC2(CCC3(C(=CCC4C3(CCC5C4(CCC(C5(C)C)O)C)C)C2C1C)C)C(=O)O,456.7,Ursolic acid protects against cisplatin-induced ototoxicity by inhibiting oxidative stress and TRPV1-mediated Ca2+-signaling
+dexpanthenol,C9H19NO4,CC(C)(CO)C(C(=O)NCCCO)O,205.25,The Effect of Dexpanthenol on Ototoxicity Induced by Cisplatin
+Minocycline,C23H27N3O7,CN(C)C1C2CC3CC4=C(C=CC(=C4C(=C3C(=O)C2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C,457.5,Protective Effect of Minocycline Against Cisplatin-induced Ototoxicity
+chrysin,C15H10O4,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,The Protective Effect of Chrysin Against Cisplatin İnduced Ototoxicity in Rats
+molsidomine,C9H14N4O4,CCOC(=NC1=C[N+](=NO1)N2CCOCC2)[O-],242.23,Molecular targets for anticancer redox chemotherapy and cisplatin-induced ototoxicity: the role of curcumin on pSTAT3 and Nrf-2 signalling
+Tempol,C9H18NO2,CC1(CC(CC(N1[O])(C)C)O)C,172.24,Protective Effect of Tempol against Cisplatin-Induced Ototoxicity
+5-Azacytidine,C8H12N4O5,C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N,244.2,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+(±)-Nipecotic acid,C6H11NO2,C1CC(CNC1)C(=O)O,129.16,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+1-Aminobenzotriazole,C6H6N4,C1=CC=C2C(=C1)N=NN2N,134.14,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Apigenin,C15H10O5,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Betamethasone,C22H29FO5,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,392.5,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Ganaxolone,C22H36O2,CC(=O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)(C)O)C)C,332.5,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Vanoxerine,C28H32F2N2O,C1CN(CCN1CCCC2=CC=CC=C2)CCOC(C3=CC=C(C=C3)F)C4=CC=C(C=C4)F,450.6,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+N-Ethylmaleimide,C6H7NO2,CCN1C(=O)C=CC1=O,125.13,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Phenserine,C20H23N3O2,CC12CCN(C1N(C3=C2C=C(C=C3)OC(=O)NC4=CC=CC=C4)C)C,337.4,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+p-Fluoro-L-phenylalanine,C9H10FNO2,C1=CC(=CC=C1CC(C(=O)O)N)F,183.18,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Dopamine,C8H11NO2,C1=CC(=C(C=C1CCN)O)O,153.18,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+SB-525334,C21H21N5,CC1=NC(=CC=C1)C2=C(N=C(N2)C(C)(C)C)C3=CC4=NC=CN=C4C=C3,343.4,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Ouabain,C29H44O12,CC1C(C(C(C(O1)OC2CC(C3(C4C(CCC3(C2)O)C5(CCC(C5(CC4O)C)C6=CC(=O)OC6)O)CO)O)O)O)O,584.7,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Ritanserin,C27H25F2N3OS,CC1=C(C(=O)N2C=CSC2=N1)CCN3CCC(=C(C4=CC=C(C=C4)F)C5=CC=C(C=C5)F)CC3,477.6,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+CP-335963,C14H17ClN2O4,COCCOC1=C(C=C2C(=C1)C(=NC=N2)Cl)OCCOC,312.75,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Tyrphostin 1,C11H8N2O,COC1=CC=C(C=C1)C=C(C#N)C#N,184.19,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+’1-(1-Naphthyl)piperazine,C14H16N2,C1CN(CCN1)C2=CC=CC3=CC=CC=C32,212.29,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Trifluoperazine,C21H24F3N3S,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F,407.5,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+S(-)-UH-301,C16H24FNO,CCCN(CCC)C1CCC2=C(C=CC(=C2C1)O)F,265.37,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+L-Mimosine,C8H10N2O4,C1=CN(C=C(C1=O)O)CC(C(=O)O)N,198.18,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+AC-55649,C21H26O2,CCCCCCCCC1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)O,310.4,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+Caroverine,C22H27N3O2,CCN(CC)CCN1C2=CC=CC=C2N=C(C1=O)CC3=CC=C(C=C3)OC,365.5,The identification of dual protective agents against cisplatin-induced oto- and nephrotoxicity using the zebrafish model
+paeoniflorin,C23H28O11,CC12CC3(C4CC1(C4(C(O2)O3)COC(=O)C5=CC=CC=C5)OC6C(C(C(C(O6)CO)O)O)O)O,480.5,Paeoniflorin protects spiral ganglion neurons from cisplatin‐induced ototoxicity: Possible relation to PINK1-BAD pathway
+naringin,C27H32O14,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,580.5,Naringin attenuates cisplatin‐ and aminoglycoside‐induced hair cell injury in the zebrafish lateral line via multiple pathways
+CYM-5478,C21H19F3N2O2,CC1=CC(=C(N1CC2=CC=CC=C2)C)C(=O)CN3C=C(C=CC3=O)C(F)(F)F,388.4,Sphingosine 1-Phosphate Receptor 2 Induces Otoprotective Responses to Cisplatin Treatment
+bucillamine,C7H13NO3S2,CC(C)(C(=O)NC(CS)C(=O)O)S,223.3,Bucillamine prevents cisplatin-induced ototoxicity through induction of glutathione and antioxidant genes
+Dabrafenib,C23H20F3N5O2S2,CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F,519.6,BRAF inhibition protects against hearing loss in mice
+epigallocatechin-3-gallate,C22H18O11,C1C(C(OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,458.4,"Epigallocatechin-3-gallate, a prototypic chemopreventative agent for protection against cisplatin-based ototoxicity"
+quinoxaline,C8H6N2,C1=CC=C2C(=C1)N=CC=N2,130.15,Quinoxaline protects zebrafish lateral line hair cells from cisplatin and aminoglycosides damage
+Resveratrol,C14H12O3,C1=CC(=CC=C1C=CC2=CC(=CC(=C2)O)O)O,228.24,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+DL-alpha-lipoic acid,C8H14O2S2,C1CSSC1CCCCC(=O)O,210.3,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Trolox,C14H18O4,CC1=C(C2=C(CCC(O2)(C)C(=O)O)C(=C1O)C)C,250.29,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Thiourea,CH4N2S,C(=S)(N)N,76.12,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+Thymoquinone,C10H12O2,CC1=CC(=O)C(=CC1=O)C(C)C,164.2,An Antioxidant Screen Identifies Candidates for Protection of Cochlear Hair Cells from Gentamicin Toxicity
+thiamine pyrophosphate,C12H19N4O7P2S+,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCOP(=O)(O)OP(=O)(O)O,425.32,The Role of Thiamine Pyrophosphate in Prevention of Cisplatin Ototoxicity in an Animal Model
+"6-methyl-3-(3,3,7,8-tetramethyl-1-oxo(2,3,4-trihydro-5H,10H,11H-benzo{b]benzo[2,1-f]1,4-diazepin-11-yl))chromen-4-one",C27H28N2O3,CC1=CC2=C(C=C1)OC=C(C2=O)C3C4=C(CC(CC4=O)(C)C)NC5=C(N3)C=C(C(=C5)C)C,428.5,"Identification of small molecule inhibitors of cisplatin-induced hair cell death: Results of a 10,000 compound screen in the zebrafish lateral line"
+LPT99,C31H32Cl2N4O4S,COC1=CC2=C(C=C1)NC=C2CCNC(=O)CC3C(=O)N(CC(=O)N3CCC4=CC=CS4)CCC5=C(C=C(C=C5)Cl)Cl,627.6,Therapeutic efficiency of the APAF‐1 antagonist LPT99 in a rat model of cisplatin‐induced hearing loss

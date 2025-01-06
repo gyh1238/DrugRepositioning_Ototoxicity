@@ -1,0 +1,75 @@
+Name,Molecular_Formula,smiles
+edaravone,C10H10N2O,CC1=NN(C(=O)C1)c2ccccc2
+ecabet sodium,C20H27NaO5S,CC(C)c1cc2CC[C@H]3[C@@](C)(CCC[C@]3(C)c2cc1S(=O)(=O)O)C(=O)O
+Epigallocatechin-3-gallate,C22H18O11,Oc1cc(O)c2C[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](Oc2c1)c4cc(O)c(O)c(O)c4
+trimetazidine,C14H22N2O3 ,COc1ccc(CN2CCNCC2)c(OC)c1OC
+N-acetylcysteine,C5H9NO3S,CC(=O)N[C@@H](CS)C(=O)O 
+vitamin A, C20H30O,C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+dexamethasone,C22H29FO5,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO
+melatonin,C13H16N2O2,COc1ccc2[nH]cc(CCNC(=O)C)c2c1 
+tacrolimus, C44H69NO12,CO[C@@H]1C[C@@H](CC[C@H]1O)\C=C(/C)\[C@H]2OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@]4(O)O[C@H]([C@H](C[C@@H](C)C\C(=C\[C@@H](CC=C)C(=O)C[C@H](O)[C@H]2C)\C)OC)[C@H](C[C@H]4C)OC
+simvastatin, C25H38O5,CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12
+Sodium selenite,Na2O3Se,O[Se](=O)(=O)O 
+Metformin, C4H11N5,CN(C)C(=N)NC(=N)N
+dieckol,C36H22O18,Oc1cc(O)cc(Oc2c(O)cc(O)c3Oc4cc(Oc5c(O)cc(Oc6c(O)cc(O)c7Oc8cc(O)cc(O)c8Oc67)cc5O)cc(O)c4Oc23)c1
+Aspirin,C9H8O4,CC(=O)Oc1ccccc1C(=O)O
+LY294002 (PI3K inhibitor),C19H17NO3,O=C1C=C(Oc2c1cccc2c3ccccc3)N4CCOCC4 
+amiloride, C6H8ClN7O,NC(=N)NC(=O)c1nc(Cl)c(N)nc1N
+Z-LLF-CHO (proteasome inhibitor ),C29H39N3O5,CC(C)CC(NC(=O)OCc1ccccc1)C(=O)NC(CC(C)C)C(=O)NC(Cc2ccccc2)C=O
+D-methionine,C5H11NO2S,CSCCC(N)C(=O)O 
+leupeptin,C20H38N6O4,CC(C)CC(C(=O)NC(CC(C)C)C(=O)NC(CCCN=C(N)N)C=O)NC(=O)C
+alpha lipoic acid , C8H14O2S2,OC(=O)CCCCC1CCSS1
+Minocycline, C23H27N3O7,CN(C)[C@H]1[C@@H]2C[C@@H]3Cc4c(ccc(O)c4C(=O)C3=C(O)[C@]2(O)C(=O)C(=C1O)C(=O)N)N(C)C
+tetramethylpyrazine, C8H12N2,Cc1nc(C)c(C)nc1C
+ethacrynic acid ,C13H12Cl2O4,CCC(=C)C(=O)c1ccc(OCC(=O)O)c(Cl)c1Cl
+Misoprostol, C22H38O5,CCCCC(C)(O)C\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(=O)OC
+silymarin, C25H22O10,COc1cc(ccc1O)C2Oc3cc(ccc3OC2CO)C4Oc5cc(O)cc(O)c5C(=O)C4O 
+MK801 (Dizocilpine),C16H15N,C[C@]12N[C@H](Cc3ccccc13)c4ccccc24 
+Q-ter(Coenzyme Q10),C59H90O4,COC1=C(OC)C(=O)C(=C(C)C1=O)C\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CC\C=C(/C)\CCC=C(C)C
+alpha-tocopherol, C29H50O2,CC(C)CCC[C@@H](C)CCC[C@@H](C)CCC[C@]1(C)CCc2c(C)c(O)c(C)c(C)c2O1
+Celastrol, C29H38O4,CC1=C(O)C(=O)C=C2C1=CC=C3[C@@]2(C)CC[C@@]4(C)[C@@H]5C[C@@](C)(CC[C@]5(C)CC[C@]34C)C(=O)O
+FM1-43,C30H49Br2N3,CCCCN(CCCC)c1ccc(\C=C\c2cc[n+](CCC[N+](CC)(CC)CC)cc2)cc1
+Doxycycline, C22H24N2O8,C[C@@H]1[C@H]2[C@H](O)[C@H]3[C@H](N(C)C)C(=C(C(=O)N)C(=O)[C@@]3(O)C(=C2C(=O)c4c(O)cccc14)O)O
+Sodium thiosulfate, Na2S2O3,OS(=O)(=S)O
+Arctigenin, C21H24O6,COc1ccc(C[C@H]2COC(=O)[C@@H]2Cc3ccc(O)c(OC)c3)cc1OC
+L-Carnitine (LCAR), C7H15NO3,C[N+](C)(C)C[C@H](O)CC(=O)[O-] 
+Galangin,C15H10O5,OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccccc3
+glutamate,C5H9NO4,N[C@H](CCC(=O)O)C(=O)O
+Z-VAD (Caspase Inhibitor VI),C21H28FN3O7  ,CC(C)C(C(=O)NC(C)C(=O)NC(CC(=O)O)C(=O)CF)NC(=O)OCC1=CC=CC=C1
+Deferoxamine,C25H48N6O8,CC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCNC(=O)CCC(=O)N(O)CCCCCN 
+Estrogen,C18H24O2,C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2O
+dehydroepiandrosterone (DHEA),C19H28O2,C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CCC2=O
+progesterone (P), C21H30O2,CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C
+Sphingosine-1-phosphate (S1P), C18H38NO5P,CCCCCCCCCCCCC\C=C\[C@@H](O)[C@@H](N)COP(=O)(O)O
+vinpocetine, C22H26N2O2,CCOC(=O)C1=C[C@]2(CC)CCCN3CCc4c([C@H]23)n1c5ccccc45
+nitro-L-arginine methyl ester (L-NAME),C7H15N5O4.HCl,COC(=O)[C@@H](N)CCCNC(=N)N[N+](=O)[O-]
+mitoquinone (MitoQ), C38H47O7PS,COC1=C(OC)C(=O)C(=C(C)C1=O)CCCCCCCCCCCCCCC[P+](c2ccccc2)(c3ccccc3)c4ccccc4
+tacrine,,Nc1c2CCCCc2nc3ccccc13
+quinoline, C9H7N,c1ccc2ncccc2c1
+indole,C8H7N,c1ccc2[nH]ccc2c1
+Fenofibrate,C20H21ClO4,CC(C)OC(=O)C(C)(C)Oc1ccc(cc1)C(=O)c2ccc(Cl)cc2
+caffeic acid phenethyl ester (CAPE), C17H16O4,Oc1ccc(\C=C\C(=O)OCCc2ccccc2)cc1O
+Memantine,C12H21N,CC12CC3CC(C)(C1)CC(N)(C3)C2 
+CEP-1347,C33H33N3O5S2,CCSCc1ccc2c(c1)c3c4CNC(=O)c4c5c6cc(CSCC)ccc6n7[C@H]8C[C@](O)(C(=O)OC)[C@](C)(O8)n2c3c57
+Rasagiline,C12H13N,C#CCN[C@@H]1CCc2ccccc12 
+Adjudin, C15H12Cl2N4O,NNC(=O)c1nn(Cc2ccc(Cl)cc2Cl)c3ccccc13
+Quercetin, C15H10O7,OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)c(O)c3
+thymoquinone,C10H12O2,CC(C)C1=CC(=O)C(=CC1=O)C
+tiopronin,C5H9NO3S,CC(S)C(=O)NCC(=O)O
+"2,3-dihydroxybenzoate", C7H6O4,COC(=O)c1cccc(O)c1O 
+salicylic acid, C7H6O3,OC(=O)c1ccccc1O
+CEP-11004,,COC(=O)[C@@]1(O)C[C@H]2O[C@]1(C)n3c4ccc(CSC(C)C)cc4c5c6CNC(=O)c6c7c8cc(CSC(C)C)ccc8n2c7c35
+geranylgeranylacetone (Teprenone), C23H38O,CC(=CCC\C(=C\CC\C(=C\CC\C(=C\CCC(=O)C)\C)\C)\C)C
+"nicotinamide adenine dinucleotide (NADH, Nadide)",C21H27N7O14P2,NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](COP(=O)([O-])OP(=O)(O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O
+glutathione (GSH),C10H17N3O6S,N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O 
+allopurinol (ALO) , C5H4N4O,O=C1NC=Nc2[nH]ncc12 
+"2-oxothiazolidine-4-carboxylate (OTC,Procysteine)",C4H4NO3S-,OC(=O)[C@@H]1CSC(=O)N1
+Salviae miltiorrhizae extracts (Tanshinone) ,C18H12,Cc1coc2c3ccc4c(C)cccc4c3C(=O)C(=O)c12
+sodium butyrate (NaB), C4H7NaO2,[Na+].CCCC(=O)[O-] 
+Mannitol, C6H14O6,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+ L-ascorbic acid, C6H8O6,OC[C@H](O)[C@H]1OC(=O)C(=C1O)O
+apocynin,C9H10O3,COc1cc(ccc1O)C(=O)C 
+Furosemide, C12H11ClN2O5S,NS(=O)(=O)c1cc(C(=O)O)c(NCc2occc2)cc1Cl 
+"EGb 761 (Ginkgo biloba extract, Glutaraldehyde)",,O=CCCCC=O 
+Geldanamycin,C29H40N2O9,CO[C@H]1C[C@H](C)CC2=C(OC)C(=O)C=C(NC(=O)\C(=C\C=C/[C@H](OC)[C@@H](OC(=O)N)\C(=C\[C@H](C)[C@H]1O)\C)\C)C2=O
+L-carnosine,C9H14N4O3,NCCC(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O
